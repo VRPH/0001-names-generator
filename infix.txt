@@ -9,10 +9,10 @@ Tacto-visual
 Haptico-visual
 Tactile
 Corpus
-Sense of sight
+Sense of Sight
 Zensousai
 3D x 3D
-Degrees of freedom
-3D ∩ 3D
-3D ∪ 3D 
+Degrees of Freedom
+3D n 3D
+3D ? 3D 
 6DoF\P
